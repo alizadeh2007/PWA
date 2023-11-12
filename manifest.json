@@ -1,0 +1,52 @@
+{
+    "name": "Abbot AI",
+    "short_name": "abbott application",
+    "theme_color": "#2196f3",
+    "description": "Weather forecast information",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+  "icons": [
+    {
+      "src":"./maskable.png",
+      "sizes":"512x512",
+      "type":"image/png",
+      "purpose":"any maskable"
+     },
+   {
+    "src":"./logo512.png",
+    "sizes":"512x512",
+    "type":"image/png"
+   },
+   {
+    "src":"./logo384.png",
+    "sizes":"384×384",
+    "type":"image/png"
+   },
+   {
+    "src":"./logo256.png",
+    "sizes":"256×256",
+    "type":"image/png"
+   },
+   {
+    "src":"./logo192.png",
+    "sizes":"192×192",
+    "type":"image/png"
+   },
+   {
+    "src":"./logo144.png",
+    "sizes":"144×144",
+    "type":"image/png"
+   },
+   {
+    "src":"./logo1024.png",
+    "sizes":"1024px",
+    "type":"image/png"
+   }
+  ],
+   "splash": {
+    "image": "./maskable.png",
+    "orientation": "any"
+  }
+}
